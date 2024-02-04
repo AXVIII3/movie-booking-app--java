@@ -32,8 +32,4 @@ These are the individual slides from a google slides presntation I gave on this 
 ![Movie Booking Software PPT (6)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/27be78bc-9f93-4efe-9228-9a8325820772)
 ![Movie Booking Software PPT (7)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/f21762a7-2212-4916-a250-e5eb7b375685)
 ![Movie Booking Software PPT (8)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/72f2a021-74db-4f93-a774-4c982523c274)
-![Movie Booking Software PPT (9)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/54d7573e-fe4f-46f9-949e-1163b418697a)
-![Movie Booking Software PPT (10)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/355472bb-cb39-46a7-b388-b1a6a8916dbe)
-![Movie Booking Software PPT (11)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/240bb823-b81c-4140-b89f-6fca3fbd33eb)
-![Movie Booking Software PPT (12)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/9d9c1d60-482e-4e80-a73a-11c545ea2f45)
 ![Movie Booking Software PPT (13)](https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/9c7dd9c5-a246-41ac-a1d0-982716dfb65f)

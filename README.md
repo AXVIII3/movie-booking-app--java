@@ -15,7 +15,10 @@ School Project on creating apps in the JAVA ecosystem
 Me :)
 
 # What?
-Pure JAVA and packages which come with it. The big ones include java.io, java.swing, java.awt and some other stuff. Used Jetbrains IntelliJ Community for coding the thing and [Pixlr](https://pixlr.com/) for the minor graphic design as required. Used Google Slides for the Presentation and Git with GitHub for version control. For data management, JAVA filesystem was used as non-JAVA APIs were not allowed and the data was stored in txt files.
+Pure JAVA and packages which come with it. The big ones include java.io, java.swing, java.awt and some other stuff. Used Jetbrains IntelliJ Community for coding the thing and [Pixlr](https://pixlr.com/) for the minor graphic design as required. Used Google Slides for the Presentation and Git with GitHub for version control. For data management, JAVA filesystem was used as non-JAVA APIs were not allowed and the data was stored in txt files.'
+
+# Demo
+https://github.com/AXVIII3/movie-booking-app--java/assets/76608488/29eb26d0-6db9-49ba-a7ad-ffabde554089
 
 # Presentation
 These are the individual slides from a google slides presntation I gave on this project
